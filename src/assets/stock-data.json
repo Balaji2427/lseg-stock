@@ -1,0 +1,14 @@
+{
+  "LSEG": [
+    { "name": "Stock A", "price": 100 },
+    { "name": "Stock B", "price": 150 }
+  ],
+  "NASDAQ": [
+    { "name": "Stock C", "price": 200 },
+    { "name": "Stock D", "price": 250 }
+  ],
+  "NYSE": [
+    { "name": "Stock E", "price": 300 },
+    { "name": "Stock F", "price": 350 }
+  ]
+}
